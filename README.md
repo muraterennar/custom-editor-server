@@ -1,0 +1,5 @@
+# Baþlarken
+- DataAccess katmanýndaki `MyDbContext` class ýn içindeki `optionsBuilder.UseSqlServer("")` yeri kendi veri tabaný baðlantýnýzla güncelleyin.
+- `update-database` komutu ile veri tabanýný oluþturun.
+
+
